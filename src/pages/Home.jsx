@@ -34,7 +34,7 @@ export default function Home() {
 
       <div style={heroContainer}>
         <div style={left}>
-          <h1 style={headline}>Welcome to <span style={gradientText}>SkillSwap</span></h1>
+          <h1 style={headline}>Welcome to <span style={gradientText}>SWAPtitude</span></h1>
           <p style={subtitle}>
             🌱 Connect. Exchange Skills. Grow Together.
           </p>
