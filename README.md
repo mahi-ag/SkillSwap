@@ -1,6 +1,7 @@
 # 🔁 SWAPtitude
 
 ### 💡 A smart platform to exchange skills, powered by matchmaking, AI-like Genie, and Firebase.
+## This is a project I have developed (solo) for the Odoo Hackathon 2025
 
 ---
 
